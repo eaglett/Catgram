@@ -1,0 +1,6 @@
+framework module Pods_Cakegram {
+  umbrella header "Pods-Cakegram-umbrella.h"
+
+  export *
+  module * { export * }
+}
